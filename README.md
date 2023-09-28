@@ -22,4 +22,6 @@
 
 11. Compilation flags
 
-[Link Here](https://docs.python.org/3/howto/regex.html)
+[Python re docs-1](https://docs.python.org/3/howto/regex.html)
+
+[Python re docs-2](https://docs.python.org/3/library/re.html)
